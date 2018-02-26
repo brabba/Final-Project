@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+<?scenebuilder-background-color 0x1d0033ff?>
+
+<AnchorPane id="AnchorPane" prefHeight="1107.0" prefWidth="1202.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/2.2" fx:controller="FXMLDocumentController">
+  <children>
+    <Button layoutX="1008.0" layoutY="967.0" mnemonicParsing="false" text="Add" />
+    <Button layoutX="410.0" layoutY="31.0" mnemonicParsing="false" text="Active Roster">
+      <font>
+        <Font size="60.0" />
+      </font>
+    </Button>
+    <TextArea layoutX="68.0" layoutY="257.0" prefWidth="264.0" text="Name&#10;Agudosi, Carlton&#10;Albright, Bryson&#10;Allen, Josh&#10;Anau,Peli&#10;Baker, Budda&#10;Barkley, Matt&#10;Barnes, Khalif&#10;Bethea, Antoine" wrapText="true" />
+    <TextArea layoutX="14.0" layoutY="257.0" prefWidth="54.0" text="#&#10;19&#10;54&#10;&#10;63&#10;36&#10;9&#10;64&#10;41" wrapText="true" />
+    <TextArea layoutX="339.0" layoutY="257.0" prefWidth="71.0" text="Pos.&#10;WR&#10;OLB&#10;C&#10;DT&#10;S&#10;QB&#10;T&#10;S" wrapText="true" />
+    <TextArea layoutX="410.0" layoutY="257.0" prefWidth="78.0" text="Ht.&#10;6-6&#10;6-5&#10;6-3&#10;6-3&#10;5-10&#10;6-2&#10;6-6&#10;5-11" wrapText="true" />
+    <TextArea layoutX="507.0" layoutY="257.0" prefWidth="94.0" text="Wt.&#10;220&#10;235&#10;315&#10;282&#10;195&#10;227&#10;320&#10;206" wrapText="true" />
+    <TextArea layoutX="627.0" layoutY="257.0" prefWidth="94.0" text="Age&#10;24&#10;23&#10;26&#10;24&#10;22&#10;27&#10;35&#10;33&#10;" wrapText="true" />
+    <TextArea layoutX="734.0" layoutY="257.0" prefWidth="156.0" text="Exp.&#10;R&#10;1&#10;1&#10;R&#10;R&#10;4&#10;12&#10;11" wrapText="true" />
+    <TextArea layoutX="904.0" layoutY="257.0" prefWidth="221.0" text="College&#10;Rutgers&#10;Miami(Ohio)&#10;Louisiana-Monroe&#10;Northern Arizona&#10;Washington&#10;USC&#10;Washington&#10;Howard" wrapText="true" />
+  </children>
+</AnchorPane>
